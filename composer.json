@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dwivedianuj9118/phonepe-payment-gateway": "dev-main",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
